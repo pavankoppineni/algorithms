@@ -16,11 +16,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algortithms.Strings.Problem
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.PatternMatching", "src\Algorithms.PatternMatching\Algorithms.PatternMatching.csproj", "{E7CA03FD-1959-42BB-8B37-AAA725F36FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.PatternMatching.Tests", "test\Algorithms.PatternMatching.Tests\Algorithms.PatternMatching.Tests.csproj", "{9E4BAC6C-7E22-4322-95EE-84F9F94568C2}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algortithms.Strings.Problems", "src\Algortithms.Strings.Problems\Algortithms.Strings.Problems.csproj", "{2A0B75EF-9685-4010-A579-4E5E0884DED4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.PatternMatching", "src\Algorithms.PatternMatching\Algorithms.PatternMatching.csproj", "{E7CA03FD-1959-42BB-8B37-AAA725F36FBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.PatternMatching.Tests", "test\Algorithms.PatternMatching.Tests\Algorithms.PatternMatching.Tests.csproj", "{9E4BAC6C-7E22-4322-95EE-84F9F94568C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
