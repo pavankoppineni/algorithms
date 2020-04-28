@@ -1,4 +1,5 @@
 ﻿using Algorithms.Sorting.BubbleSort;
+using Algortithms.Strings.Problems;
 using System;
 
 namespace Algorithms.Shell
@@ -7,8 +8,6 @@ namespace Algorithms.Shell
     {
         static void Main(string[] args)
         {
-            var bubbleSort = new SampleBubbleSort();
-            bubbleSort.Sort();
         }
     }
 }
