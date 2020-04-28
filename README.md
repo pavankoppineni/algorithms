@@ -10,7 +10,7 @@
 
 ### Pattern Matching Algorithms
 
-1. KMP Algorithm
+1. [KMP Algorithm](./src/Algorithms.PatternMatching/KmpAlgorithm)
 2. Z Algorithm
 
 # Problems
