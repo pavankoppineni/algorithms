@@ -12,9 +12,3 @@
 
 1. [KMP Algorithm](./src/Algorithms.PatternMatching/KmpAlgorithm)
 2. Z Algorithm
-
-# Problems
-
-### String Problems
-
-1. [Longest Substring Without Repeating Characters](./src/Algortithms.Strings.Problems/LongestSubstringWithoutRepeatingCharacters.cs)
