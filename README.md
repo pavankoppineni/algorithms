@@ -7,7 +7,7 @@
 * [Merge Sort](./src/Algorithms.Sorting/MergeSort.cs)
 * Quick Sort
 * Radix Sort
-* Counting Sort(./src/Algorithms.Sorting/CountingSort.cs)
+* [Counting Sort](./src/Algorithms.Sorting/CountingSort.cs)
 
 ### Pattern Matching Algorithms
 
