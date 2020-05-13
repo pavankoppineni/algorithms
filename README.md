@@ -2,19 +2,14 @@
 
 ### Sorting Algorithms
 
-1. [Bubble Sort](./src/Algorithms.Sorting/BubbleSort)
-2. Insertion Sort
-3. Merge Sort
-4. Quick Sort
-5. Radix Sort
+* [Bubble Sort](./src/Algorithms.Sorting/BubbleSort)
+* Insertion Sort
+* [Merge Sort](./src/Algorithms.Sorting/MergeSort.cs)
+* Quick Sort
+* Radix Sort
+* Counting Sort(./src/Algorithms.Sorting/CountingSort.cs)
 
 ### Pattern Matching Algorithms
 
-1. KMP Algorithm
-2. Z Algorithm
-
-# Problems
-
-### String Problems
-
-1. [Longest Substring Without Repeating Characters](./src/Algortithms.Strings.Problems/LongestSubstringWithoutRepeatingCharacters.cs)
+* [KMP Algorithm](./src/Algorithms.PatternMatching/KmpAlgorithm)
+* Z Algorithm
