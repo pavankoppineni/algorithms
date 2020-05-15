@@ -1,4 +1,5 @@
-﻿using Algorithms.Sorting.BubbleSort;
+﻿using Algorithms.Sorting;
+using Algorithms.Sorting.BubbleSort;
 using Algortithms.Strings.Problems;
 using System;
 
@@ -8,6 +9,9 @@ namespace Algorithms.Shell
     {
         static void Main(string[] args)
         {
+            var values = new int[] { 121, 123, 141, 890 };
+            var radixSort = new RadixSort();
+            radixSort.Sort(values);
         }
     }
 }
