@@ -50,7 +50,6 @@ namespace Algorithms.Sorting
                 values[index] = temp[i];
                 countArray[value]--;
             }
-            return values;
         }
     }
 }
