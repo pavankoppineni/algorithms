@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Algorithms.Sorting
+namespace Algorithms.Sorting.MergeSort
 {
-    public class MergeSort
+    public class MergeSortV1
     {
         public int[] Sort(int[] values)
         {
