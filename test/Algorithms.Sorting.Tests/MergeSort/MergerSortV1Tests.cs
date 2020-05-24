@@ -1,4 +1,5 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Algorithms.Sorting.MergeSort;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -6,14 +7,14 @@ using System.Text;
 namespace Algorithms.Sorting.Tests
 {
     [TestClass]
-    public class MergerSortTests
+    public class MergerSortV1Tests
     {
         [TestMethod]
         public void IntegerArray_Sort_ReturnsSortedArray()
         {
             //Arrange
             var values = new int[] { 1, 8, 4, 9, 5 };
-            var mergeSort = new MergeSort();
+            var mergeSort = new MergeSortV1();
             var expectedArray = new int[] { 9, 8, 5, 4, 1 };
 
             //Act
