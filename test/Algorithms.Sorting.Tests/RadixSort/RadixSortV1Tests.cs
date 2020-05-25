@@ -1,19 +1,20 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Algorithms.Sorting.RadixSort;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Algorithms.Sorting.Tests
+namespace Algorithms.Sorting.Tests.RadixSort
 {
     [TestClass]
-    public class RadixSortTests
+    public class RadixSortV1Tests
     {
         [TestMethod]
         public void IntegerArray_Sort_ReturnsSortedArray()
         {
             //Arrange
             var values = new int[] { 87, 12, 65, 172, 90};
-            var radixSort = new RadixSort();
+            var radixSort = new RadixSortV1();
             var expectedArray = new int[] { 12, 65, 87, 90, 172 };
 
             //Act

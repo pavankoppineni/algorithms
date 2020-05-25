@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 
-namespace Algorithms.Sorting
+namespace Algorithms.Sorting.RadixSort
 {
-    public class RadixSort
+    public class RadixSortV1
     {
         public int[] Sort(int[] values)
         {

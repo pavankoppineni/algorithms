@@ -10,7 +10,7 @@ namespace Algorithms.Shell
         static void Main(string[] args)
         {
             var values = new int[] { 121, 123, 141, 890 };
-            var radixSort = new RadixSort();
+            var radixSort = new RadixSortV1();
             radixSort.Sort(values);
         }
     }
