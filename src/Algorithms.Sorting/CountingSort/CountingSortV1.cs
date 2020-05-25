@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Algorithms.Sorting
+namespace Algorithms.Sorting.CountingSort
 {
     /// <summary>
     /// Counting sort
     /// </summary>
-    public class CountingSort
+    public class CountingSortV1
     {
         public int[] Sort(int[] values)
         {
