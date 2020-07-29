@@ -5,7 +5,7 @@
 * [Bubble Sort](./src/Algorithms.Sorting/BubbleSort)
 * Insertion Sort
 * [Merge Sort](./src/Algorithms.Sorting/MergeSort)
-* Quick Sort
+* [Quick Sort](./src/Algorithms.Sorting/QuickSort)
 * [Radix Sort](./src/Algorithms.Sorting/RadixSort)
 * [Counting Sort](./src/Algorithms.Sorting/CountingSort.cs)
 
