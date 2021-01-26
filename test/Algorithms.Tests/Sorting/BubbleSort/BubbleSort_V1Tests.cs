@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Algorithms.Tests.Sorting
+namespace Algorithms.Tests.Sorting.BubbleSort
 {
     [TestClass]
     public class BubbleSort_V1Tests
