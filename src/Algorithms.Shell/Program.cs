@@ -1,7 +1,4 @@
-﻿using Algorithms.Sorting;
-using Algorithms.Sorting.BubbleSort;
-using Algortithms.Strings.Problems;
-using System;
+﻿using System;
 
 namespace Algorithms.Shell
 {

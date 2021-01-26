@@ -6,8 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Algorithms.Sorting\Algorithms.Sorting.csproj" />
-    <ProjectReference Include="..\Algortithms.Strings.Problems\Algortithms.Strings.Problems.csproj" />
   </ItemGroup>
 
 </Project>
