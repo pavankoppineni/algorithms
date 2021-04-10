@@ -21,3 +21,5 @@
 
 * [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 * [Ant Colony Optimization Algorithm](https://www.geeksforgeeks.org/introduction-to-ant-colony-optimization/)
+* [Manachers Algorithm](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-4/)
+* [Kadane's Algorithm](https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/)
