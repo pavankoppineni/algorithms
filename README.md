@@ -11,3 +11,4 @@
 ### Misc
 
 * [Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
+* Ant Colony Optimization Algorithm(https://www.geeksforgeeks.org/introduction-to-ant-colony-optimization/)
