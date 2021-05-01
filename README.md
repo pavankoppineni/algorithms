@@ -26,3 +26,4 @@
 * [Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 * [Load Balancing](https://kemptechnologies.com/load-balancer/load-balancing-algorithms-techniques/)
 * [Rate Limiting](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
+* [Sweep Line Algorithm](https://www.geeksforgeeks.org/given-a-set-of-line-segments-find-if-any-two-segments-intersect/)
