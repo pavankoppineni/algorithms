@@ -7,6 +7,10 @@
 * [Radix Sort](./src/Algorithms/Sorting/RadixSort)
 * [Merge Sort](./src/Algorithms/Sorting/MergeSort)
 
+### Tree Traversal
+
+* [Inorder Traversal](./src/Algorithms/Traversals/Tree/Inorder)
+
 ### Pattern Searching Algorithms
 
 * [KMP Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
