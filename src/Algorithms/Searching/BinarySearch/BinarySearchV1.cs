@@ -18,7 +18,7 @@ namespace Algorithms.Searching.BinarySearch
                 return -1;
             }
 
-            var mid = (end - start + 1) >> 1;
+            var mid = start +  ((end - start + 1) >> 1);
 
             //Case 1 : When value is equal to mid element
             //Action : Return mid index

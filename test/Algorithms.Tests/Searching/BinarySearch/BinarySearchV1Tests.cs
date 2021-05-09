@@ -13,9 +13,9 @@ namespace Algorithms.Tests.Searching.BinarySearch
         public void Given_IntegerArrayAndValue_When_SearchIntegerArray_Then_ReturnIndexOfValue()
         {
             //Given
-            var values = new int[] { 2, 5, 8, 10, 12, 15 };
-            var value = -2;
-            var expectedIndex = -1;
+            var values = new int[] { 2, 5, 8, 10, 12, 15, 17, 89 };
+            var value = 89;
+            var expectedIndex = 7;
             var binarySearch = new BinarySearchV1();
 
             //When
