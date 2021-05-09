@@ -13,7 +13,7 @@
 
 ### Searching
 
-* Binary Search
+* [Binary Search](./src/Algorithms/Searching/BinarySearch)
 * Linear Search
 
 ### Pattern Searching Algorithms
