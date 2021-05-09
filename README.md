@@ -11,6 +11,11 @@
 
 * [Inorder Traversal](./src/Algorithms/Traversals/Tree/Inorder)
 
+### Searching
+
+* Binary Search
+* Linear Search
+
 ### Pattern Searching Algorithms
 
 * [KMP Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
