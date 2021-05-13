@@ -10,6 +10,7 @@
 ### Tree Traversal
 
 * [Inorder Traversal](./src/Algorithms/Traversals/Tree/Inorder)
+* [Preorder Traversal](./src/Algorithms/Traversals/Tree/Preorder)
 
 ### Searching
 
