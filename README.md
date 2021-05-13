@@ -11,6 +11,7 @@
 
 * [Inorder Traversal](./src/Algorithms/Traversals/Tree/Inorder)
 * [Preorder Traversal](./src/Algorithms/Traversals/Tree/Preorder)
+* [Postorder Traversal](./src/Algorithms/Traversals/Tree/Postorder)
 
 ### Searching
 
