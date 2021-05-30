@@ -6,6 +6,7 @@
 * [Counting Sort](./src/Algorithms/Sorting/CountingSort)
 * [Radix Sort](./src/Algorithms/Sorting/RadixSort)
 * [Merge Sort](./src/Algorithms/Sorting/MergeSort)
+* [Quick Sort](./src/Algorithms/Sorting/QuickSort)
 
 ### Tree Traversal
 
