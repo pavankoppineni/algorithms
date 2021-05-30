@@ -12,8 +12,43 @@ namespace Algorithms.Sorting.QuickSort
             return values;
         }
 
-        private void Sort(int[] values, int startInclusive, int endInclusive)
+        private void Sort(int[] values, int start, int end)
         {
+            if (start >= end)
+            {
+                return;
+            }
+            var currentPartition = FindPartition(values, start, end, end);
+            Sort(values, start, currentPartition - 1);
+            Sort(values, currentPartition + 1, end);
+        }
+
+        private int FindPartition(int[] values, int start, int end, int pivot)
+        {
+            var currentPartition = start;
+            while (start < end)
+            {
+                //Case 1 :  
+                //Action :
+                if (values[start] <= values[pivot])
+                {
+                    var temp = values[start];
+                    values[start] = values[currentPartition];
+                    values[currentPartition] = temp;
+                    currentPartition += 1;
+                    start += 1;
+                }
+                //Case 2 : 
+                //Action :
+                else
+                {
+                    start += 1;
+                }
+            }
+            var tempPivot = values[pivot];
+            values[pivot] = values[currentPartition];
+            values[currentPartition] = tempPivot;
+            return currentPartition;
         }
     }
 }
