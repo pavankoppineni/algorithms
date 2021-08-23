@@ -14,7 +14,7 @@ namespace Algorithms.Tests.Sorting.RadixSort
         public void Given_ArrayOfintegers_When_Sort_Then_ShouldReturnSortedArray()
         {
             //Given
-            var values = new int[] { 71, 17, 32 };
+            var values = new int[] { 17, 14, 18 };
             var countingSort = new RadixSort_V1();
             var expectedResult = new int[] { 17, 32, 71 };
 
