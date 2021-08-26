@@ -8,20 +8,28 @@ namespace Algorithms.Sorting.MergeSort
     {
         public int[] Sort(int[] values)
         {
+            Divide(values, 0, values.Length - 1);
             return values;
         }
 
 
         private void Divide(int[] values, int start, int end)
         {
+            if (start == end)
+            {
+                return;
+            }
+            var mid = start + ((end - start) >> 1);
+            Divide(values, start, mid);
+            Divide(values, mid + 1, end);
+            Merge(values, start, mid, mid + 1, end);
         }
 
-        private void Merge(int[] values, int start, int end)
+        private void Merge(int[] values, int startOne, int endOne, int startTwo, int endTwo)
         {
-            var mid = (start + end) >> 1;
-            var leftArray = CopyArray(values, start, mid);
-            var rightArray = CopyArray(values, mid + 1, end);
-            var currentIndex = 0;
+            var leftArray = CopyArray(values, startOne, endOne);
+            var rightArray = CopyArray(values, startTwo, endTwo);
+            var currentIndex = startOne;
             var leftPosition = 0;
             var rightPosition = 0;
             while (leftPosition < leftArray.Length && rightPosition < rightArray.Length)

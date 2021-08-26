@@ -16,7 +16,7 @@ namespace Algorithms.Tests.Sorting.RadixSort
             //Given
             var values = new int[] { 17, 14, 18 };
             var countingSort = new RadixSort_V1();
-            var expectedResult = new int[] { 17, 32, 71 };
+            var expectedResult = new int[] { 14, 17, 18 };
 
             //When
             var acutalResult = countingSort.Sort(values);
