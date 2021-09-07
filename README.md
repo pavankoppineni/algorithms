@@ -22,7 +22,7 @@
 
 ### Pattern Searching Algorithms
 
-* [KMP Algorithm](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)
+* [KMP Algorithm](./src/Algorithms/PatternSearching/KMPAlgorithm)
 * [Rabin-Karp Algorithm](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 * [Boyer Moore Algorithm](https://www.geeksforgeeks.org/boyer-moore-algorithm-for-pattern-searching/)
 * [Finite Automata](https://www.geeksforgeeks.org/finite-automata-algorithm-for-pattern-searching/)
