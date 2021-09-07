@@ -7,6 +7,7 @@
 * [Radix Sort](./src/Algorithms/Sorting/RadixSort)
 * [Merge Sort](./src/Algorithms/Sorting/MergeSort)
 * [Quick Sort](./src/Algorithms/Sorting/QuickSort)
+* [Patience Sort](./src/Algorithms/Sorting/PatienceSort)
 
 ### Tree Traversal
 
