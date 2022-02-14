@@ -41,6 +41,7 @@
 * [Rate Limiting](https://konghq.com/blog/how-to-design-a-scalable-rate-limiting-algorithm/)
 * [Sweep Line Algorithm](https://www.geeksforgeeks.org/given-a-set-of-line-segments-find-if-any-two-segments-intersect/)
 * [Min Max Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
+* [Rolling hash](https://en.wikipedia.org/wiki/Rolling_hash#:~:text=A%20rolling%20hash%20(also%20known,that%20moves%20through%20the%20input.)
 
 ### DIFF Algorithms
 
