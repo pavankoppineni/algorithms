@@ -42,6 +42,10 @@
 * [Sweep Line Algorithm](https://www.geeksforgeeks.org/given-a-set-of-line-segments-find-if-any-two-segments-intersect/)
 * [Min Max Algorithm](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
 * [Rolling hash](https://en.wikipedia.org/wiki/Rolling_hash#:~:text=A%20rolling%20hash%20(also%20known,that%20moves%20through%20the%20input.)
+* 𝗠𝗲𝗿𝗸𝗹𝗲 𝗧𝗿𝗲𝗲
+* 𝗕𝗹𝗼𝗼𝗺 𝗙𝗶𝗹𝘁𝗲𝗿
+* 𝗚𝗼𝘀𝘀𝗶𝗽 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹
+* 𝗛𝗲𝗮𝗿𝘁𝗯𝗲𝗮𝘁
 
 ### DIFF Algorithms
 
