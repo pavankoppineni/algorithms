@@ -51,3 +51,34 @@
 
 * [Myers Algorithm](https://blog.robertelder.org/diff-algorithm/)
 * [Myers Algorithm](https://medium.com/skyrise/the-myers-diff-algorithm-and-kotlin-observable-properties-69dfb18541b)
+
+### White Papers
+
+* [Google File System](https://lnkd.in/d2-wnyqZ)
+* Map Reduce: https://lnkd.in/dvE8-s8M
+* BigTable: https://lnkd.in/drmvvSAK
+* Megastore: https://lnkd.in/d5JDs2-K
+* Monarch: https://lnkd.in/d3kH_NCp
+* Chubby: https://lnkd.in/dYy-w5rW
+* Spanner: https://lnkd.in/d6Emnycp
+* Dapper: https://lnkd.in/dm36-6jn
+* Borg: https://lnkd.in/dnveV-HU
+* Zanzibar: https://lnkd.in/d5Vf7sRD
+* Pregel: https://lnkd.in/daq4576Y
+* Amazon Aurora: https://lnkd.in/dR5zBaup
+* Dynamo DB: https://lnkd.in/dMD8C_WK
+* Scalability at what COST: https://lnkd.in/dJ9ScYKq
+* Foundation DB: https://lnkd.in/dG75i_9K
+* Monolith: Real-Time Recommendation System With Collisionless Embedding Table: https://lnkd.in/dcjBXCnc
+* MilliSampler: https://lnkd.in/dsj9FuD6
+* Scaling Memcache at Facebook: https://lnkd.in/dKeYK67g
+* Gorilla DB: https://lnkd.in/d3AeN2kB
+* FlexiRaft: https://lnkd.in/dX3nMvmt
+* Cassandra: https://lnkd.in/d-_nhtED
+* TAO: https://lnkd.in/daasJpYf
+* MineSweeper - Root Cause Analysis: https://lnkd.in/dEsd6iwj
+* Prophet - Forecasting at Scale: https://lnkd.in/daCmAjak
+* ShardManager: https://lnkd.in/dDy9Dp2h
+* Hadoop FileSystem: https://lnkd.in/dHsQu9FN
+* Kafka: https://lnkd.in/dyxuKbMb
+* Flink: https://lnkd.in/dn_gMvaR
