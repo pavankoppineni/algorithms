@@ -55,8 +55,8 @@
 ### White Papers
 
 * [Google File System](https://lnkd.in/d2-wnyqZ)
-* Map Reduce: https://lnkd.in/dvE8-s8M
-* BigTable: https://lnkd.in/drmvvSAK
+* [Map Reduce](https://lnkd.in/dvE8-s8M)
+* [BigTable](https://lnkd.in/drmvvSAK)
 * Megastore: https://lnkd.in/d5JDs2-K
 * Monarch: https://lnkd.in/d3kH_NCp
 * Chubby: https://lnkd.in/dYy-w5rW
