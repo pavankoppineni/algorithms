@@ -82,3 +82,4 @@
 * Hadoop FileSystem: https://lnkd.in/dHsQu9FN
 * Kafka: https://lnkd.in/dyxuKbMb
 * Flink: https://lnkd.in/dn_gMvaR
+* [Firestore](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/d647cb73166040a82b7e5569574451be517f5c59.pdf)
