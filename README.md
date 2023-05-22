@@ -54,7 +54,7 @@
 
 ### White Papers
 
-* [Google File System](https://lnkd.in/d2-wnyqZ)
+* [Google File System]([https://lnkd.in/d2-wnyqZ](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf))
 * [Map Reduce](https://lnkd.in/dvE8-s8M)
 * [BigTable](https://lnkd.in/drmvvSAK)
 * Megastore: https://lnkd.in/d5JDs2-K
