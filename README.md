@@ -66,7 +66,7 @@
 * Zanzibar: https://lnkd.in/d5Vf7sRD
 * Pregel: https://lnkd.in/daq4576Y
 * Amazon Aurora: https://lnkd.in/dR5zBaup
-* Dynamo DB: https://lnkd.in/dMD8C_WK
+* [Dynamo DB] (https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 * Scalability at what COST: https://lnkd.in/dJ9ScYKq
 * Foundation DB: https://lnkd.in/dG75i_9K
 * Monolith: Real-Time Recommendation System With Collisionless Embedding Table: https://lnkd.in/dcjBXCnc
