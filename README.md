@@ -46,6 +46,7 @@
 * 𝗕𝗹𝗼𝗼𝗺 𝗙𝗶𝗹𝘁𝗲𝗿
 * 𝗚𝗼𝘀𝘀𝗶𝗽 𝗣𝗿𝗼𝘁𝗼𝗰𝗼𝗹
 * 𝗛𝗲𝗮𝗿𝘁𝗯𝗲𝗮𝘁
+* [Monte Carlo Tree Search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search)
 
 ### DIFF Algorithms
 
